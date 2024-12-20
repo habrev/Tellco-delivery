@@ -1,3 +1,5 @@
 .venv/ 
 
 assets/
+
+aggregate_xdr_data.py/
