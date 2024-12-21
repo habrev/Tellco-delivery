@@ -1,1 +1,0 @@
-# Tellco-delivery
