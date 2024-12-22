@@ -33,6 +33,25 @@ In the telecom industry, understanding user engagement is crucial for improving 
 3. **User Engagement Segmentation**  
    Track user engagement across different applications and customer clusters to help technical teams optimize network resources.
 
+   ### Task 3: Advanced Metrics and Clustering
+
+1. **Aggregate, per customer, the following information** (treat missing & outliers by replacing with the mean or the mode of the corresponding variable):
+   - Average TCP retransmission
+   - Average RTT
+   - Handset type
+   - Average throughput
+
+2. **Compute & list 10 of the top, bottom, and most frequent**:
+   - TCP values in the dataset
+   - RTT values in the dataset
+   - Throughput values in the dataset
+
+3. **Compute & report**:
+   - The distribution of the average throughput per handset type and provide interpretation for your findings.
+   - The average TCP retransmission view per handset type and provide interpretation for your findings.
+
+4. **Using the experience metrics above, perform a k-means clustering (where k = 3)** to segment users into groups of experiences and provide a brief description of each cluster. (The description must define each group based on your understanding of the data)
+
 ## Tools & Technologies
 
 - **Data Analysis**: Python (pandas, NumPy, scikit-learn)
