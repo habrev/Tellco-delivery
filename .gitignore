@@ -3,3 +3,4 @@
 assets/
 
 aggregate_xdr_data.py/
+.env
